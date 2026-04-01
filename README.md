@@ -29,7 +29,7 @@ My Current Dev Journey
 Connect with me: 
 https://ca.linkedin.com/in/ibrahim-salad-software-engineer
 
-Languages and Tools:
+Languages:
 
 <img width="50" height="50" alt="C-Logo" src="https://github.com/user-attachments/assets/3f6ed33f-4462-4f77-a8cf-b1973f58802c" />
 <img width="50" height="50" alt="C++Logo" src="https://github.com/user-attachments/assets/e1bdbffa-8e74-42f3-9339-2da441d3cf8a" />
@@ -38,12 +38,6 @@ Languages and Tools:
 <img width="50" height="50" alt="JavaScript-Logo" src="https://github.com/user-attachments/assets/f15442ec-8d8d-4a6d-be28-4e95d40cba67" />
 <img width="50" height="50" alt="PHP-Logo" src="https://github.com/user-attachments/assets/43dc72cf-ab01-4077-8010-77539a59e333" />
 <img width="50" height="50" alt="React-Logo" src="https://github.com/user-attachments/assets/36f4da6d-dcbd-4fdc-9b8c-382f4083eec9" />
-<img width="90" height="90" alt="SpringBoot-Logo" src="https://github.com/user-attachments/assets/f09a538c-fd5c-4c81-9e42-8669a347acf2" />
-<img width="50" height="50" alt="NodeJs-Logo" src="https://github.com/user-attachments/assets/3fdda189-97f9-48f8-b3ac-ae7604ee87c8" />
-<img width="50" height="80" alt="MongoDB-Logo" src="https://github.com/user-attachments/assets/915e88a0-f716-4a08-9928-a14cbf952387" />
-<img width="50" height="50" alt="MySQL-Logo" src="https://github.com/user-attachments/assets/d985a2cf-2a48-4fa4-83d5-b23d5c9611e1" />
-<img width="50" height="50" alt="NPM-Logo" src="https://github.com/user-attachments/assets/eb62d9a4-ff26-4515-9bfb-c3fc3de90cf2" />
-<img width="50" height="50" alt="Git-Logo" src="https://github.com/user-attachments/assets/ef0d506b-a806-4a04-aed4-ebb9f81a8d72" />
 <img width="50" height="50" alt="Bash-logo" src="https://github.com/user-attachments/assets/9cb27ac3-49b4-4a1e-a3c9-729dd76382f6" />
 <img width="50" height="50" alt="Linux-Logo" src="https://github.com/user-attachments/assets/337e92ef-6d12-4d4d-be71-2e8530b8b64b" />
 <img width="50" height="50" alt="Arduino-Logo" src="https://github.com/user-attachments/assets/f3716013-c39d-4812-83a9-ac73501bf13b" />
