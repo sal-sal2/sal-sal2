@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ibrahim
 
 <!--
-**sal-ibrahim/sal-ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sal-sal2/sal-sal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,8 +18,6 @@ About Me
 
 - Software Engineering student at uOttawa.
 - I'm passionate about exploring new technologies and using them to design and build software solutions.
-- Seeking Summer 2026 Internships
-
 
 My Current Dev Journey
 - 🌱 I’m currently learning software development with Spring Boot and exploring systems programming.
@@ -31,16 +29,8 @@ https://ca.linkedin.com/in/ibrahim-salad-software-engineer
 
 Languages:
 
-<img width="50" height="50" alt="C-Logo" src="https://github.com/user-attachments/assets/3f6ed33f-4462-4f77-a8cf-b1973f58802c" />
-<img width="50" height="50" alt="C++Logo" src="https://github.com/user-attachments/assets/e1bdbffa-8e74-42f3-9339-2da441d3cf8a" />
-<img width="50" height="50" alt="Python-Logo" src="https://github.com/user-attachments/assets/f8a4f4ea-29a4-4505-82f6-000953cb055a" />
-<img width="50" height="50" alt="Java-Logo" src="https://github.com/user-attachments/assets/2d8cf204-a153-4f0f-96da-b53516e5a716" />
-<img width="50" height="50" alt="JavaScript-Logo" src="https://github.com/user-attachments/assets/f15442ec-8d8d-4a6d-be28-4e95d40cba67" />
-<img width="50" height="50" alt="PHP-Logo" src="https://github.com/user-attachments/assets/43dc72cf-ab01-4077-8010-77539a59e333" />
-<img width="50" height="50" alt="React-Logo" src="https://github.com/user-attachments/assets/36f4da6d-dcbd-4fdc-9b8c-382f4083eec9" />
-<img width="50" height="50" alt="Bash-logo" src="https://github.com/user-attachments/assets/9cb27ac3-49b4-4a1e-a3c9-729dd76382f6" />
-<img width="50" height="50" alt="Linux-Logo" src="https://github.com/user-attachments/assets/337e92ef-6d12-4d4d-be71-2e8530b8b64b" />
-<img width="50" height="50" alt="Arduino-Logo" src="https://github.com/user-attachments/assets/f3716013-c39d-4812-83a9-ac73501bf13b" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 
 
 
